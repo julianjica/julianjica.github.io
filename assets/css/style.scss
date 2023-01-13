@@ -1,9 +1,15 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-cayman';
+
+.page-header {
+    background-image: linear-gradient(120deg, #0C1B6E, #6E5F0C);
+}
 
 .main-content, .toc {
     max-width: 80rem;
     text-align: justify;
 }
+
+
