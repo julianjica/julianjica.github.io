@@ -7,7 +7,7 @@ While living in Bogota (Colombia), I earned a B.Sc. in Physics at Universidad Na
 
 In addition to my research experience, I also taught Bachelor level courses in Mathematics like Integral Calculus, Differential Equations and Scientific Computing. 
 
-**Email:** jo.jimenezc1 [at] uniandes [dot] edu [dot] co
+**Email:** jjimenezcardenas [at] hbs [dot] edu
 
 [Download my CV](Resume.pdf){: .btn}
 
