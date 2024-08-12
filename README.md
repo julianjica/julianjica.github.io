@@ -15,14 +15,12 @@ In addition to my research experience, I also taught Bachelor level courses in M
 
 ## Publications
 
+- *Dynamic Competition for Customer Memberships*  
+Cristian Chica, **Julian Jimenez-Cardenas** and Jorge Tamayo  
+[Journal of Economics & Management Strategy](https://onlinelibrary.wiley.com/doi/abs/10.1111/jems.12605)
+
 - *About the restricted three-body problem with the Schwarschild de Sitter potential*  
 John A. Arredondo, **Julian Jimenez-Cardenas**  
 [Nonlinear Dynamics and Systems Theory, Volume 21, Number 2.](https://e-ndst.kiev.ua/v21n2.htm)
 
-## Working Papers
-- *Dynamic Competition for Customer Memberships*  
-Cristian Chica, **Julian Jimenez-Cardenas** and Jorge Tamayo  
-[Harvard Business School Working Paper, No. 21-091, March 2021.](https://www.hbs.edu/ris/Publication%20Files/21-091_b70b4f05-e099-466c-b178-896cdf90f0e0.pdf)  
-(R&R Journal of Economics & Management Strategy)
-
-<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => { x[0].remove(); }, 10); </script>
+<script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => {}, 10); </script>
