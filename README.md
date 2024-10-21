@@ -26,9 +26,11 @@ John A. Arredondo, **Julian Jimenez-Cardenas**
 ## Working Papers (shared upon request)
 
 - *Strategy for Multiunit Organizations*
+
 **Julian Jimenez-Cardenas**, Jorge Tamayo
 
 - *Generalists: on the organizational benefits of broad skilling*
+
 Achyuta Adhvaryu, **Julian Jimenez-Cardenas**, Anant Nyshadham, Jorge Tamayo
 
 <script src="http://code.jquery.com/jquery-1.4.2.min.js"></script> <script> var x = document.getElementsByClassName("site-footer-credits"); setTimeout(() => {}, 10); </script>
