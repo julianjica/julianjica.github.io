@@ -9,7 +9,7 @@ redirect_from:
 
 #  About  Me
 ## Academic
-I am a mathematician - physicist currently working as a senior researcher for [Professor Tamayo](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1063486), formally contracted through [Good Business Lab](https://goodbusinesslab.org/), and part of the (Digital Reskilling Lab)[https://d3.harvard.edu/digital-reskilling/] at Harvard Business School. 
+I am a mathematician - physicist currently working as a senior researcher for [Professor Tamayo](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=1063486), formally contracted through [Good Business Lab](https://goodbusinesslab.org/), and part of the [Digital Reskilling Lab](https://d3.harvard.edu/digital-reskilling/) at Harvard Business School. 
 
 My primary research interests lie in strategy, with a strong emphasis on microeconomic theory. In particular, my work engages with topics such as two-part tariffs, industrial organization, and platform competition, among related areas. I use my mathematical background to employ geometric and analytical methods to develop novel theoretical models capturing a wide range of business and microeconomic environments, to determine potential equilibria, and to employ computational tools to simulate market behavior and empirically assess model predictions using data.
 
