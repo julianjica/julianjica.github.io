@@ -58,15 +58,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
-
-Work in Progress
-======
-<ul>
-  {% for post in site.working_papers reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
-
 Talks
 ======
 <ul>
